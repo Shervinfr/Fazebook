@@ -8,7 +8,7 @@ Features
     Responsive UI: Optimized for various devices using Django templates and static files.
     Extensible Design: Easily extendable for additional features.
 
-Prerequisites
+<h2>Prerequisites</h2>
 
 Before you begin, ensure you have the following installed:
 
@@ -17,7 +17,7 @@ Before you begin, ensure you have the following installed:
     A virtual environment tool like venv or virtualenv
     SQLite (or your preferred database)
 
-Installation
+<h2>Installation</h2>
 
     Clone the repository:
 
@@ -45,7 +45,7 @@ Start the development server:
     Access the application:
     Open http://127.0.0.1:8000 in your web browser.
 
-Folder Structure
+<h3>Folder Structure</h3>
 
     core/: Main application with authentication and shared functionalities.
     social_book/: Features for managing user posts and interactions.
