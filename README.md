@@ -1,4 +1,4 @@
-**Fazebook
+h1 Fazebook
 
 Fazebook is a Django-based web application designed as a simplified social networking platform. This project aims to provide basic functionality for user management, posts, and social interaction while serving as an educational resource for those learning web development with Python and Django.
 Features
